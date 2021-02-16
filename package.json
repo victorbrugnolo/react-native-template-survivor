@@ -1,4 +1,22 @@
 {
   "name": "react-native-template-survivor",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "description": "Clean and minimalist React Native template for a quick start with TypeScript, React Navigation and React Native Vector Icons, following Airbnb styleguide",
+  "files": [
+    "template",
+    "template.config.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victorbrugnolo/react-native-template-survivor.git"
+  },
+  "keywords": [
+    "react-native",
+    "typescript",
+    "template",
+    "boilerplate"
+  ],
+  "author": "Victor Brugnolo <brugnolovictor@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/victorbrugnolo/react-native-template-survivor#readme"
 }
