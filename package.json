@@ -1,6 +1,6 @@
 {
   "name": "react-native-template-survivor",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Clean and minimalist React Native template for a quick start with TypeScript, React Navigation and React Native Vector Icons, following Airbnb styleguide",
   "files": [
     "template",
