@@ -12,7 +12,7 @@
   </a>
 </p>
 
-> Clean and minimalist React Native template for a quick start with TypeScript, React Navigation and React Native Vector Icons, following Airbnb styleguide.
+> Clean and minimalist React Native template for a quick start with TypeScript, React Navigation, Styled Components and React Native Vector Icons, following Airbnb styleguide.
 
 ## :star: Features
 
