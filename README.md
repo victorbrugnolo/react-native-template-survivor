@@ -20,6 +20,7 @@
 - Consistent with the default React Native template
 - [React Navigation](https://reactnavigation.org)
 - [React Native Vector Icons](https://github.com/oblador/react-native-vector-icons)
+- [Styled Components](https://styled-components.com)
 - [Airbnb styleguide](https://airbnb.io/javascript/react/)
 
 ## :fast_forward: Usage
